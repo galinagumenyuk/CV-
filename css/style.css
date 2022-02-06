@@ -1,6 +1,6 @@
 body {
   font-family: "Montserrat", sans-serif;
-  background-color: #f5f7fa;
+  /* background-color: #f5f7fa; */
 }
 .main-container {
   display: flex;
@@ -8,7 +8,7 @@ body {
   width: 1200px;
   background-color: #fff;
   margin: 40px auto;
-  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+  /* box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1); */
 }
 
 /* main container section */
@@ -46,7 +46,7 @@ body {
   width: 400px;
   font-style: normal;
   font-weight: normal;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 24px;
   color: #595959;
 }
@@ -57,7 +57,8 @@ body {
   font-size: 22px;
   line-height: 27px;
   color: #000000;
-  margin-bottom: 10px;
+  margin-top: 20px;
+  margin-bottom: 3px;
 }
 
 .my-project-list {
@@ -67,6 +68,10 @@ body {
   color: #000000;
   font-weight: 700;
 }
+.project-text {
+  margin: 0px;
+}
+
 .my-projeet-text {
   font-style: normal;
   font-weight: normal;
@@ -109,9 +114,9 @@ body {
 .my-education-period {
   font-style: normal;
   font-weight: normal;
-  font-size: 12px;
+  font-size: 13px;
   line-height: 15px;
-  color: #a8a8a8;
+  color: #4e4c4c;
   margin-bottom: 10px;
 }
 .my-work-experience-divider,
@@ -126,7 +131,7 @@ body {
   font-weight: normal;
   font-size: 14px;
   line-height: 24px;
-  color: #595959;
+  color: #4e4c4c;
 }
 .my-work-experience-company-block {
   margin-bottom: 15px;
@@ -139,7 +144,9 @@ body {
   font-size: 16px;
   line-height: 20px;
   color: #496cdf;
-  margin-bottom: 10px;
+  margin-bottom: 0px;
+  margin-top: 10px;
+  margin-bottom: 3px;
 }
 .specialty {
   font-style: normal;
@@ -147,7 +154,7 @@ body {
   font-size: 14px;
   line-height: 17px;
   color: #000000;
-  margin-bottom: 10px;
+  margin: 0px;
 }
 /* sidebar section */
 .sidebar-section {
@@ -182,12 +189,12 @@ body {
   margin-right: 7px;
 }
 .contacts-section-link {
-  color: #8692a5;
+  color: #9eaabe;
   font-style: normal;
   font-weight: normal;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 24px;
-  /* or 171% */
+  margin: 0px;
 }
 /* section tech and soft skills */
 .tech-skills-list,
@@ -202,8 +209,7 @@ body {
 .soft-skills-item-text {
   font-style: normal;
   font-weight: normal;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 24px;
-  /* or 171% */
   color: #fff;
 }
