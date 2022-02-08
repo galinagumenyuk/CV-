@@ -6,14 +6,15 @@ body {
   display: flex;
   flex-direction: row-reverse;
   width: 1200px;
+  /* height: 1724px; */
   background-color: #fff;
-  margin: 40px auto;
+  margin: 20px auto;
   /* box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1); */
 }
 
 /* main container section */
 .main-container-section {
-  padding: 100px 90px;
+  padding: 45px 90px;
 }
 
 /* about me section */
@@ -27,7 +28,7 @@ body {
   color: #000;
   font-style: normal;
   font-weight: bold;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 17px;
   margin-bottom: 20px;
 }
@@ -46,9 +47,9 @@ body {
   width: 400px;
   font-style: normal;
   font-weight: normal;
-  font-size: 15px;
+  font-size: 17px;
   line-height: 24px;
-  color: #595959;
+  color: #201f1f;
 }
 /* my project section */
 .main-container-title {
@@ -75,28 +76,28 @@ body {
 .my-projeet-text {
   font-style: normal;
   font-weight: normal;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
-  color: #595959;
+  color: #201f1f;
   margin-left: 5px;
 }
 .my-project-link {
   font-style: normal;
   font-weight: normal;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
-  color: #595959;
+  color: #201f1f;
 }
 .my-project-bracket {
   font-style: normal;
   font-weight: bold;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
   color: #000000;
 }
 
 .my-project-section {
-  margin-bottom: 50px;
+  margin-bottom: 30px;
 }
 /* my work experience */
 .my-work-experience-company {
@@ -114,9 +115,9 @@ body {
 .my-education-period {
   font-style: normal;
   font-weight: normal;
-  font-size: 13px;
+  font-size: 14px;
   line-height: 15px;
-  color: #4e4c4c;
+  color: #201f1f;
   margin-bottom: 10px;
 }
 .my-work-experience-divider,
@@ -129,9 +130,9 @@ body {
 .my-work-experience-duty-item {
   font-style: normal;
   font-weight: normal;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
-  color: #4e4c4c;
+  color: #201f1f;
 }
 .my-work-experience-company-block {
   margin-bottom: 15px;
@@ -151,7 +152,7 @@ body {
 .specialty {
   font-style: normal;
   font-weight: bold;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 17px;
   color: #000000;
   margin: 0px;
@@ -163,7 +164,8 @@ body {
   padding: 40px 0px;
 }
 .img {
-  width: 370px;
+  width: 200px;
+  margin-left: 43px;
 }
 .contacts-section,
 .skills-section {
