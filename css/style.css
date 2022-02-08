@@ -160,7 +160,7 @@ body {
 /* sidebar section */
 .sidebar-section {
   background-color: #1e2939;
-  width: 372px;
+  width: 375px;
   padding: 40px 0px;
 }
 .img {
@@ -196,7 +196,7 @@ body {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 22px;
   margin: 0px;
 }
 .contacts-section-link:hover {
