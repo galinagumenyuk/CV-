@@ -189,12 +189,16 @@ body {
   margin-right: 7px;
 }
 .contacts-section-link {
-  color: #9eaabe;
+  color: #fff;
+  text-decoration: none;
   font-style: normal;
   font-weight: normal;
   font-size: 15px;
   line-height: 24px;
   margin: 0px;
+}
+.contacts-section-link:hover {
+  color: #b9bdca;
 }
 /* section tech and soft skills */
 .tech-skills-list,
