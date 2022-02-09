@@ -7,7 +7,8 @@ p {
   margin: 0px;
 }
 h4,
-h5 {
+h5,
+h3 {
   margin-top: 0px;
 }
 
@@ -22,7 +23,7 @@ h5 {
 
 /* main container section */
 .main-container-section {
-  padding: 100px 90px;
+  padding: 55px 90px;
 }
 
 /* about me section */
@@ -66,6 +67,7 @@ h5 {
   line-height: 27px;
   color: #000000;
   margin-bottom: 10px;
+  margin-top: 50px;
 }
 
 .my-project-list {
@@ -117,8 +119,8 @@ h5 {
 .my-education-period {
   font-style: normal;
   font-weight: normal;
-  font-size: 13px;
-  line-height: 15px;
+  font-size: 14px;
+  line-height: 16px;
   color: #1a1919;
   margin-bottom: 10px;
 }
