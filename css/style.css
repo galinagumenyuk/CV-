@@ -1,6 +1,7 @@
 body {
   font-family: "Montserrat", sans-serif;
-  background-color: #cbddfa;
+  margin: 0px;
+  background-color: #1e2939;
 }
 p {
   margin: 0px;
@@ -16,12 +17,13 @@ h5 {
   width: 1200px;
   background-color: #fff;
   margin: 40px auto;
-  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+  /* box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1); */
 }
 
 /* main container section */
 .main-container-section {
-  padding: 100px 90px;
+  /* padding: 100px 90px; */
+  padding: 45px 90px;
 }
 
 /* about me section */
@@ -159,8 +161,9 @@ h5 {
 /* sidebar section */
 .sidebar-section {
   background-color: #1e2939;
+  height: 2480 px;
   width: 370px;
-  padding: 40px 0px;
+  /* padding: 40px 0px; */
 }
 .img {
   width: 210px;
